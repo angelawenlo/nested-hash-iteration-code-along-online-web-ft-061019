@@ -19,4 +19,5 @@ def remove_strawberry(contacts)
     details.each do |attribute, data|
     binding.pry
   end
+  end
 end
